@@ -1,30 +1,9 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Robertson - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 9, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Mucked around on a portfolio page I was building while going through the Free Code Camp Basic Front End projects. I had trouble centering items and played around with flexbox which I had successfully used before when I first learned it last year but with all this old code and a huge disruption in my flow I didn't know what my original intention was for that site and nothing was working. I have decided to change the layout a bit (even though getting the original layout I had looking nice would've been enough of a challenge given how rusty I am!) 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I am sooooooooo rusty! I think I last worked on this in May of 2016. Yikes! I will try not to be too ambitious with this. What I want doesn't match what I am able to do at this time and I need to come to terms with that! Also, I do not know my way around Github at all. Haha. Will have to do quite a bit of review and learn some basics over the next week outside of the challenge.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** Personal portfolio project on Free Code Camp. https://twitter.com/enthusielly/status/818490405490671616
