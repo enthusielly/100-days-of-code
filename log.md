@@ -9,9 +9,10 @@ I was able to embed some facebook events into his events page which for some rea
 
 **Need to do:**
 - figure out what the hell is wrong with the header on the about page--it is shifting over a few pixels
-- create a separate template-like file for the header and footer so it is reusable and needn't be pasted in to each page. This seems to be the answer: http://www.apaddedcell.com/how-automatically-include-your-header-navigation-and-footer-every-page
-- set the bio text properly. Currently it is flooded to the edges of the page and I know it has to be a simple solution but i am just not getting it today. Plus any class or id I put here is just not having any effect. 
+[x]- create a separate template-like file for the header and footer so it is reusable and needn't be pasted in to each page. This seems to be the answer: http://www.apaddedcell.com/how-automatically-include-your-header-navigation-and-footer-every-page
+[x]- set the bio text properly. Currently it is flooded to the edges of the page and I know it has to be a simple solution but i am just not getting it today. Plus any class or id I put here is just not having any effect.
 
+NOTE: I was so annoyed I went back to it twice after I wrote in my log. I realized I had mixed up the folders and was pulling files off Dropbox and editing some local files too which is why some changes were not taking effect. I managed to fix the bio text but not the photo. The 2nd time I went back I decided to look at creating separate files for the header and footer and am now in PHP territory. I downloaded XAMPP to try to test the files since I can't just preview them in a browser now but it's too late in the evening to figure it out (http://localhost/dashboard/) so I'm calling it quits tonight.
 
 **Thoughts:** I am feeling like I hate this work! I don't expect to be an expert in it but I am really not enjoying it today. I am also feeling so utterly clumsy. During a more positive moment and thought about it as something like watercolour painting. Utterly clumsy, awful and messy at first but with practise, can yield elegant results.  
 
