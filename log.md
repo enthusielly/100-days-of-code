@@ -3,8 +3,9 @@
 ### Day 3: January 11, 2017 
 
 **Today's Progress**: 
-My husband urgently needed his website fixed up as he had a lead to some composing work. 
-We'd been talking about how we might fix his website to feature him as a composer rather than a music label of a whole bunch of bands and personas that were really him. I'd created it over a year ago and struggled a bit to make it responsive, mostly by trial and error. I was able to embed some facebook events into his events page which for some reason he was not able to do and adjust the width of some soundcloud and bandcamp sections so they looked a bit nicer, but overall I felt pretty inept. 
+My husband urgently needed his website fixed up as he had a lead to some composing work. I'd created the old site over a year ago and struggled a bit to make it responsive, mostly by trial and error and looking it over I seem to have wiped it all out to start anew. We're keeping the basic look but replacing a few things here and there.
+
+I was able to embed some facebook events into his events page which for some reason he was not able to do and adjust the width of some soundcloud and bandcamp sections so they looked a bit nicer, but overall I felt pretty inept. 
 
 **Need to do:**
 - figure out what the hell is wrong with the header on the about page--it is shifting over a few pixels
