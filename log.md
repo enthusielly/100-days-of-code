@@ -1,4 +1,26 @@
 # 100 Days Of Code - Robertson - Log
+
+****************************
+### Day 4: January 12, 2017 
+
+**Today's Progress**: 
+Worked a bit on my husband's site, mostly setting up XAMPP so I could test my PHP files. I was nervous but I was able to figure it out. Mostly the application had changed (for example to find the app it wasn't called XAMPP but Manager-OSX. How would I have known that?). fixed up the header and footer and deleted it from the other pages and it's working great. After that I tackled the photo and bio on the about page which was stupidly simple but I still struggled with it wanting to do it with Flexbox. In the end, simple CSS did the trick. sheesh.
+
+**Need to do:**
+- would like to align bottom of logo with nav links 
+- can’t seem to get red hover on links to work
+
+
+**Thoughts:** Not feeling so terrible today, but feeling like I don't want to really stretch my brain to figure out simple things. Maybe because it is 12:40 AM and I just want to go to bed. =)  
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/819782011271266305
+yesterday's work is here: aaronrobertson.net although I've just realized that will chnage every time it is updated. So, I need to learn this github thing!
+
+
+
+
+
+
 ****************************
 ### Day 3: January 11, 2017 
 
