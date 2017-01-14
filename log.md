@@ -1,6 +1,23 @@
 # 100 Days Of Code - Robertson - Log
 
 ****************************
+### Day 5: January 13, 2017 
+
+**Today's Progress**: 
+I got most of the basic requirements needed for my husband's site. The header and footer are separate files as he'd requested. I installed XAMMP yesterday and was able to test the PHP files there. Phew. I also got the hover working on the links. Today I tackled making it responsive. I got as far as adding a simple hamburger menu thanks to this https://codepen.io/corysimmons/pen/KbFcg but can't get the menu to actually hide and display. At the moment it covers up the logo and won't collapse. I suspect it is the javascript which I haven't learned yet and I know is coming up next in the FCC path once I finish my own portfolio! (It's nearly there.)
+
+**Need to do:**
+- figure out the javascript to make the hamburger menu turn 90° and for the menu to collapse and expand when on mobile or tablet. 
+- adjust the album art to it shows one at a time instead of shrinking down at 3 across.
+- check that videos and events look ok'
+- husband needs to update his bio and he can post the basic site
+
+**Thoughts:** 
+I managed to fix the logo which was not centering and warping whenever I made the window too narrow. I feel like i am nearly there, except for the not knowing any javascript to feel my way around. I'm very grateful for the code Cory Simmons posted on CodePen. I just need to make it work for me. 
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/820143307246473217
+
+****************************
 ### Day 4: January 12, 2017 
 
 **Today's Progress**: 
@@ -15,9 +32,6 @@ Worked a bit on my husband's site, mostly setting up XAMPP so I could test my PH
 
 **Link to work:** Tweet https://twitter.com/enthusielly/status/819782011271266305
 yesterday's work is here: aaronrobertson.net although I've just realized that will chnage every time it is updated. So, I need to learn this github thing!
-
-
-
 
 
 
