@@ -1,5 +1,24 @@
 # 100 Days Of Code - Robertson - Log
 
+
+****************************
+ +### Day 6: January 14, 2017 
+ +
+ +**Today's Progress**: 
+ +Still can't get the hamburger menu to work. I must be missing some small javascript detail I don't yet understand. I've managed the hide the menu but the hamburger menu button is just not active. Giving up, I decided to tackle making the rest of the site responsive: images and text. Hard to really adjust it but this went relatively smoothly. Also tidied up some code that was not doing anything (fore example, I was very enthusiastic about using flexbox but it wasn't necessarily working properly, or needed for what I was doing.)
+ +
+ +**Need to do:**
+ +- figure out the javascript to make the hamburger menu turn 90° and for the menu to collapse and expand when on mobile or tablet. 
+ +- check that videos and events look ok'
+ +- husband needs to update his bio and he can post the basic site
+ +
+ +**Thoughts:** 
+ +Frustrated by the Javascript but not by that much since i haven't learned it yet. Happy to have resolved other things though.
+ +
+ +**Link to work:** Tweet https://twitter.com/enthusielly/status/820485115193290752
+
+
+
 ****************************
 ### Day 5: January 13, 2017 
 
