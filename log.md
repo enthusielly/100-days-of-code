@@ -14,7 +14,7 @@
  +**Thoughts:** 
 Neutral. don't feel terrible, but seeing and feeling the value of daily practice. Dying for a break though--I'm worried about other things falling by the wayside.
 
- +**Link to work:** Tweet 
+ +**Link to work:** Tweet https://twitter.com/enthusielly/status/820838623369105409
 
 
 ****************************
