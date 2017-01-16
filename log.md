@@ -1,4 +1,20 @@
 # 100 Days Of Code - Robertson - Log
+****************************
+ +### Day 7: January 15, 2017 
+ +
+ +**Today's Progress**: 
+ Didn't touch hamburger. Just worked on other parts of site to get it looking consistent all across (not yet successfully) and responsive. Seem to have a problem with facebook events but it could be that I am viewing on desktop and the event images don't need to switch to mobile-friendly. 
+ +
+ +**Need to do:**
+ +- figure out the javascript to make the hamburger menu turn 90° and for the menu to collapse and expand when on mobile or tablet. 
+ +- headers consistently placed on responsive versions
+ -media images extended across to edges of mobile site
+ +- husband needs to update his bio and he can post the basic site
+ +
+ +**Thoughts:** 
+Neutral. don't feel terrible, but seeing and feeling the value of daily practice. Dying for a break though--I'm worried about other things falling by the wayside.
+
+ +**Link to work:** Tweet 
 
 
 ****************************
