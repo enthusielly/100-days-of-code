@@ -1,37 +1,51 @@
 # 100 Days Of Code - Robertson - Log
 ****************************
- +### Day 7: January 15, 2017 
- +
- +**Today's Progress**: 
-+ Didn't touch hamburger. Just worked on other parts of site to get it looking consistent all across (not yet successfully) and responsive. Seem to have a problem with facebook events but it could be that I am viewing on desktop and the event images don't need to switch to mobile-friendly. 
- +
- +**Need to do:**
- +- figure out the javascript to make the hamburger menu turn 90° and for the menu to collapse and expand when on mobile or tablet. 
- +- headers consistently placed on responsive versions
- +- media images extended across to edges of mobile site
- +- husband needs to update his bio and he can post the basic site
- +
- +**Thoughts:** 
-+ Neutral. don't feel terrible, but seeing and feeling the value of daily practice. Dying for a break though--I'm worried about other things falling by the wayside.
 
- +**Link to work:** Tweet https://twitter.com/enthusielly/status/820838623369105409
+
 
 
 ****************************
- +### Day 6: January 14, 2017 
- +
- +**Today's Progress**: 
- +Still can't get the hamburger menu to work. I must be missing some small javascript detail I don't yet understand. I've managed the hide the menu but the hamburger menu button is just not active. Giving up, I decided to tackle making the rest of the site responsive: images and text. Hard to really adjust it but this went relatively smoothly. Also tidied up some code that was not doing anything (fore example, I was very enthusiastic about using flexbox but it wasn't necessarily working properly, or needed for what I was doing.)
- +
- +**Need to do:**
- +- figure out the javascript to make the hamburger menu turn 90° and for the menu to collapse and expand when on mobile or tablet. 
- +- check that videos and events look ok'
- +- husband needs to update his bio and he can post the basic site
- +
- +**Thoughts:** 
- +Frustrated by the Javascript but not by that much since i haven't learned it yet. Happy to have resolved other things though.
- +
- +**Link to work:** Tweet https://twitter.com/enthusielly/status/820485115193290752
+### Day 7: January 15, 2017 
+
+**Today's Progress**: Didn't touch hamburger. Just worked on other parts of site to get it looking consistent all across (not yet successfully) and responsive. Seem to have a problem with facebook events but it could be that I am viewing on desktop and the event images don't need to switch to mobile-friendly. 
+
+**Need to do:**
+- figure out the javascript to make the hamburger menu turn 90° and for the menu to collapse and expand when on mobile or tablet.
+- husband needs to update his bio and he can post the basic site
+- media images extended across to edges of mobile site 
+- headers consistently placed on responsive versions 
+
+
+**Thoughts:** Neutral. don't feel terrible, but seeing and feeling the value of daily practice. Dying for a break though--I'm worried about other things falling by the wayside.  
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/820838623369105409
+
+
+
+
+
+
+
+****************************
+### Day 6: January 14, 2017 
+
+**Today's Progress**: Still can't get the hamburger menu to work. I must be missing some small javascript detail I don't yet understand. I've managed the hide the menu but the hamburger menu button is just not active. Giving up, I decided to tackle making the rest of the site responsive: images and text. Hard to really adjust it but this went relatively smoothly. Also tidied up some code that was not doing anything (fore example, I was very enthusiastic about using flexbox but it wasn't necessarily working properly, or needed for what I was doing.)
+
+**Need to do:**
+- check that videos and events look ok'
+- husband needs to update his bio and he can post the basic site
+- figure out the javascript to make the hamburger menu turn 90° and for the menu to collapse and expand when on mobile or tablet. 
+
+
+**Thoughts:** Frustrated by the Javascript but not by that much since i haven't learned it yet. Happy to have resolved other things though.  
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/820485115193290752
+
+
+
+
+
+
 
 
 
