@@ -1,6 +1,19 @@
 # 100 Days Of Code - Robertson - Log
 ****************************
+****************************
+### Day 8: January 17, 2017 
+Skipped a day.
 
+**Today's Progress**: Didn't touch hamburger. A friend made some suggestions and wrote a bit of code for me for the burger but it's still not working. I did manage to tidy up a few other things and at this time I think I'd like to just center the menu (without hamburger) for now. If only I could get it to center!
+
+**Need to do:**
+- husband needs to update his bio and he can post the basic site
+- media images extended across to edges of mobile site, or at least consistently. (Currently different widths) 
+- center menu bar on mobile and tablet breakpoints, then call it done for now, except for husband's content edits.
+
+**Thoughts:** Took a while to get into it but that's ok. My hours of code often end up 2 hours. Aaron suggests I can get this done in 50 days instead. =P  
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/821584498894766080; Github https://github.com/enthusielly/AaronRobertsonComposer
 
 
 
