@@ -1,5 +1,23 @@
 # 100 Days Of Code - Robertson - Log
 ****************************
+### Day 8: January 19, 2017 
+Had to skip another day. Deadlines loomed over me.
+
+**Today's Progress**: Completely abaondoned hamburger but still can't get menu centered. Can't figure out how I built it. Adjusted colours, changed fonts. Attempted but was not successful connecting to FontSquirrel fonts. 
+
+**Need to do:**
+- husband needs to update his bio and he can post the basic site
+- media images extended across to edges of mobile site, or at least consistently. (Currently different widths) 
+- center menu bar on mobile and tablet breakpoints, then call it done for now, except for husband's content edits.
+- build events and videos page like the Bandcamp section
+- sort out palette and fonts
+
+**Thoughts:** Nearly 3 hours. I was focused!
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/822333545108508673; Github https://github.com/enthusielly/AaronRobertsonComposer
+
+
+
 ****************************
 ### Day 8: January 17, 2017 
 Skipped a day.
