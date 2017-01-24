@@ -1,5 +1,29 @@
 # 100 Days Of Code - Robertson - Log
 
+
+
+****************************
+### Day 11-12: January 21,23, 2017 
+gravenhurst weekend getaway and back from holiday
+
+**Today's Progress**: 
+changed video and fb posts from vertical list to inline but need to fix so the last item isn't centered.
+
+**Need to do:**
+- husband needs to update his bio and he can post the basic site
+- media images adjust so last item is align left
+- sort out palette and fonts
+- problem is in between breakpoints and weird spacing before and after headers etc.
+- not liking the subhead anymore. Need to differentiate header section from body (Songwriting & Composition looks like a header)
+- Music header vs the rest are still ot in the same place.
+
+**Thoughts:** much less frustrated. once I get this tidy I'd like to try to do it in bootstrap.
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/823731755505057792 Github https://github.com/enthusielly/AaronRobertsonComposer and this tweet was day 11 mislabeled day 10 https://twitter.com/enthusielly/status/823352522005823488
+
+
+
+
 ****************************
 ### Day 10: January 20, 2017 
 gravenhurst weekend getaway!
