@@ -1,5 +1,24 @@
 # 100 Days Of Code - Robertson - Log
 
+****************************
+### Day 13: January 24, 2017 
+
+**Today's Progress**: 
+Fiddled a bit with the events page and ways to display Facebook events. Explored options but not sure I liked any of them (Facebook events are so ugly.) Tried the text list view and just one Facebook post instead. Not sure I like it better but it needs some better typography.
+
+**Need to do:**
+- husband needs to update his bio and he can post the basic site
+- media images adjust so last item is align left
+- sort out palette and fonts
+- problem is in between breakpoints and weird spacing before and after headers etc.
+- not liking the subhead anymore. Need to differentiate header section from body (Songwriting & Composition looks like a header)
+- Music header vs the rest are still not in the same place.
+- Would like to finish this up, then try it all over again in Bootstrap. Am I torturing myself?
+
+**Thoughts:** I'm running out of things to tweet as I work on the same thing every day. 
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/823985985281282053 Github https://github.com/enthusielly/AaronRobertsonComposer 
+
 
 
 ****************************
