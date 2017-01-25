@@ -4,7 +4,7 @@
 ### Day 13: January 24, 2017 
 
 **Today's Progress**: 
-Fiddled a bit with the events page and ways to display Facebook events. Explored options but not sure I liked any of them (Facebook events are so ugly.) Tried the text list view and just one Facebook post instead. Not sure I like it better but it needs some better typography.
+Fiddled a bit with the events page and ways to display Facebook events. Explored options but not sure I liked any of them (I don't like the look of Facebook events outside of Facebook.) Tried the text list view and just one Facebook post that I was suggesting instead. Not sure I like it better but it probably just needs some better typography.
 
 **Need to do:**
 - husband needs to update his bio and he can post the basic site
