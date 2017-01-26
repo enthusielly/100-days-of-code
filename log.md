@@ -1,5 +1,25 @@
 # 100 Days Of Code - Robertson - Log
 
+
+****************************
+### Day 14: January 25, 2017 
+
+**Today's Progress**: 
+Adjusted the header and subtitle so the subtitle sits under the title--both left aligned. Moved site to a shared folder so Aaron can work on it too, and we have strong version control.
+
+**Need to do:**
+- proof-read bio, suggest moving quotes to other parts of site
+- media images adjust so last item is align left
+- problem is in between breakpoints and weird spacing before and after headers etc. USE FIREFOX TO FIGURE THIS OUT!
+- Music header vs the rest are still not in the same place.
+- Would like to finish this up, then try it all over again in Bootstrap. Am I torturing myself?
+
+**Thoughts:** So tired i can barely keep my eyes open 
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/824496092519792640 Github https://github.com/enthusielly/AaronRobertson
+
+
+
 ****************************
 ### Day 13: January 24, 2017 
 
