@@ -1,4 +1,22 @@
 # 100 Days Of Code - Robertson - Log
+
+****************************
+### Day 16: January 27, 2017 
+
+**Today's Progress**: 
+some flexboxing, then adjusted resonsiveness on site, moved social to top, adjusted bandcamp section as best i could, finally got aligned with soundcloud section.
+
+**Need to do:**
+- get video section to be same witdh as soundcloud
+- header bloody wide
+- Would like to finish this up, then try it all over again in Bootstrap. Am I torturing myself?
+
+**Thoughts:** focused. kinda enjoying it. 
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/825106155458306048 Live: aaronrobertson.net
+
+
+
 ****************************
 ### Day 15: January 25, 2017 
 
