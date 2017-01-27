@@ -1,4 +1,20 @@
 # 100 Days Of Code - Robertson - Log
+****************************
+### Day 15: January 25, 2017 
+
+**Today's Progress**: 
+a little disjointed today. i decided to take some time to learn Flexbox.
+
+**Need to do:**
+- proof-read bio, suggest moving quotes to other parts of site
+- media images adjust so last item is align left
+- problem is in between breakpoints and weird spacing before and after headers etc. USE FIREFOX TO FIGURE THIS OUT!
+- Music header vs the rest are still not in the same place.
+- Would like to finish this up, then try it all over again in Bootstrap. Am I torturing myself?
+
+**Thoughts:** Still so tired i can barely keep my eyes open 
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/824855728129126400 Github https://github.com/enthusielly/AaronRobertson
 
 
 ****************************
