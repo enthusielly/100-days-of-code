@@ -1,4 +1,21 @@
 # 100 Days Of Code - Robertson - Log
+****************************
+### Day 17: January 28, 2017 
+
+**Today's Progress**: 
+adjusted header and some more alignments, more work on reponsiveness.
+
+**Need to do:**
+- get video section to be same witdh as soundcloud
+- header bloody wide
+- Would like to finish this up, then try it all over again in Bootstrap. Am I torturing myself?
+
+**Thoughts:** had to go to bed but wanted to get site up. looked at it and was annoyed by the header so I tweaked it. Next thing you know I've done my hour of code. I might've broken something but I have to go to bed now.
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/825234735194636289 Live: aaronrobertson.net
+
+
+
 
 ****************************
 ### Day 16: January 27, 2017 
