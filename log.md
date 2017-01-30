@@ -1,4 +1,23 @@
 # 100 Days Of Code - Robertson - Log
+
+****************************
+### Day 18: January 28, 2017 
+
+**Today's Progress**: 
+noticed my site is not actually responsive. trying to figure it out but even my responsive code doens't seem to be affecting anything. Tired. Will work on it tomorrow.
+
+**Need to do:**
+- get video section to be same witdh as soundcloud
+- header bloody wide
+- Would like to finish this up, then try it all over again in Bootstrap. Am I torturing myself?
+
+**Thoughts:** not much progress. just plain confused. Really want to get this sorted out before I jump into making it in Bootstrap. Stubborn. =)
+
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/825922970057056256 Live: aaronrobertson.net
+
+
+
 ****************************
 ### Day 17: January 28, 2017 
 
