@@ -1,4 +1,21 @@
 # 100 Days Of Code - Robertson - Log
+****************************
+### Day 19: January 30, 2017 
+
+**Today's Progress**: 
+somewhere along the way i broke the site. IT works on firefox but not on chrome and definitely not on Safari either which I guess I should stop using. And now I udnerstand why it wasn't working on my mobile--I'm using Safari. So I've switched to Bootstrap and now learning that. 
+
+**Need to do:**
+- get video section to be same witdh as soundcloud
+- get header in bootstrap working. not adjusting propery it seems, and when called into PHP pages the styles are lost.
+
+**Thoughts:** back to square one. would like to do my portoflio site someday!
+
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/826294570581368832 Live: aaronrobertson.net
+
+
+
 
 ****************************
 ### Day 18: January 28, 2017 
