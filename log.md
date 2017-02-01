@@ -1,5 +1,24 @@
 # 100 Days Of Code - Robertson - Log
 
+****************************
+### Day 21: Feb 1, 2017 
+
+**Today's Progress**: 
+fixed misaligned strays in flexbox.
+
+**Need to do:**
+check responsiveness. maybe bootstrap is not the way to go with this since there are so many in progress things on Aaron's side. I will bootstrap my own portfolio instead.
+- fix headers and alignments on mobile (also albums. soundcloud looks good)
+- looks weird at 768px (just needs to rewrap at this breakpoint)
+- responsive not working on mobile safari or chrome. (just mini site
+
+**Thoughts:** i stuck with it and figured it out in 1.5 hours. 
+
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/826902970893742084 Live: aaronrobertson.net
+
+
+
 
 ****************************
 ### Day 20: January 31, 2017 
