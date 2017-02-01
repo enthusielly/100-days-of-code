@@ -1,4 +1,24 @@
 # 100 Days Of Code - Robertson - Log
+
+
+****************************
+### Day 20: January 31, 2017 
+
+**Today's Progress**: 
+playing with bootstrap. The header looks good--on desktop. I might've broken it by mixing up the template a bit. 
+
+**Need to do:**
+- get video section to be same witdh as soundcloud
+- get header in bootstrap working. not adjusting propery it seems, and when called into PHP pages the styles are lost.
+- albums are wonky. i don't know what's going on.
+
+**Thoughts:** back to square one. 
+
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/826631650922655744 Live: aaronrobertson.net
+
+
+
 ****************************
 ### Day 19: January 30, 2017 
 
