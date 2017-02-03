@@ -1,6 +1,19 @@
 # 100 Days Of Code - Robertson - Log
 
 ****************************
+### Day 23: Feb 3, 2017 
+
+**Today's Progress**: 
+decided to build my Portfolio from the ground up again. Borrowed code from all sorts of places. Should I flexbox it or Bootstrap it? I keep wanting to just Flexbox it as it seems I can't mix, but maybe I just need a bit more research
+
+**Need to do:**
+Everything!
+
+**Thoughts:** 
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/827551120302174216
+
+****************************
 ### Day 22: Feb 2, 2017 
 
 **Today's Progress**: 
