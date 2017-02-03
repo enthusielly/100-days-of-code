@@ -1,6 +1,22 @@
 # 100 Days Of Code - Robertson - Log
 
 ****************************
+### Day 22: Feb 2, 2017 
+
+**Today's Progress**: 
+resumed work on my FCC portfolio site. Couldn't decide between the format in the example or my own. I decided I might play around with both but wanted the basic site to function properly but I broke it somehow. Also wanted it to be able to show more details of my work somehow but none of that is working either. 
+
+**Need to do:**
+Everything. I broke it. Starting all over. again. it's annoying but good for me.
+
+**Thoughts:** Above!
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/827378602089992192
+
+
+
+
+****************************
 ### Day 21: Feb 1, 2017 
 
 **Today's Progress**: 
