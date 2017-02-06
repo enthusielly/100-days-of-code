@@ -1,6 +1,21 @@
 # 100 Days Of Code - Robertson - Log
 
 ****************************
+### Day 24: Feb 5, 2017 
+
+**Today's Progress**: 
+tried to do a little python (not well, need to learn Terminal.Looked at my portfolio stie, but was too tired to realy do much with it.
+
+**Need to do:**
+Everything!
+
+**Thoughts:** 
+too tired to do this. 
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/828478347189567488
+
+
+****************************
 ### Day 23: Feb 3, 2017 
 
 **Today's Progress**: 
