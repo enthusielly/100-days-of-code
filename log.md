@@ -11,7 +11,7 @@ Back to it! Refocus.
 **Thoughts:** 
 also. tired.
 
-**Link to work:** Tweet https://twitter.com/enthusielly/status/828808065097068549
+**Link to work:** Tweet https://twitter.com/enthusielly/status/828808065097068549 & https://twitter.com/enthusielly/status/828810187825872896
 
 ****************************
 ### Day 24: Feb 5, 2017 
