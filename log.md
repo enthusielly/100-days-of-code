@@ -1,4 +1,17 @@
 # 100 Days Of Code - Robertson - Log
+****************************
+### Day 25: Feb 6, 2017 
+
+**Today's Progress**: 
+a little sidetracked by an online free bootcamp but it's way over my head. I will refocus. Was fun to do simple Python though. 
+
+**Need to do:**
+Back to it! Refocus.
+
+**Thoughts:** 
+also. tired.
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/828808065097068549
 
 ****************************
 ### Day 24: Feb 5, 2017 
