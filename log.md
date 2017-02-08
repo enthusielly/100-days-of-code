@@ -1,4 +1,21 @@
 # 100 Days Of Code - Robertson - Log
+
+****************************
+### Day 26: Feb 7, 2017 
+
+**Today's Progress**: 
+working top down, i managed to fix the portfolio section. yay!
+
+**Need to do:**
+figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
+
+**Thoughts:** 
+it's so great when I can figure things out!
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/829180803775086594
+
+
+
 ****************************
 ### Day 25: Feb 6, 2017 
 
