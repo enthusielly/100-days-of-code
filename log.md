@@ -1,6 +1,23 @@
 # 100 Days Of Code - Robertson - Log
 
 ****************************
+### Day 27: Feb 9, 2017 
+
+**Today's Progress**: 
+working top down, continuing to the bottom of my portfolio page.
+
+**Need to do:**
+figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
+style some text
+colours
+responsive design
+
+**Thoughts:** 
+i don't love the straight across full width design. It's so not my style. 
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/829930234266820612
+
+****************************
 ### Day 26: Feb 7, 2017 
 
 **Today's Progress**: 
