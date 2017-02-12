@@ -1,5 +1,19 @@
 # 100 Days Of Code - Robertson - Log
+****************************
+### Day 28: Feb 11, 2017 
 
+**Today's Progress**: 
+tweaks to page. trying to put in a slider from a workshop I took but it is ugly and clunky and i cant change the xiae. Better to simplify and move on. or is it? 
+
+**Need to do:**
+figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
+style some text
+colours
+responsive design
+
+**Thoughts:** 
+
+**Link to work:** Tweet https://twitter.com/enthusielly/status/830604098978344961
 ****************************
 ### Day 27: Feb 9, 2017 
 
