@@ -1,4 +1,18 @@
 # 100 Days Of Code - Robertson - Log
+
+****************************
+
+Day 29: Feb 12, 2017
+
+Today's Progress: tweaks to fluidity of my work, trouble with teh About section now. 
+
+Need to do: figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. style some text colours responsive design
+
+Thoughts:
+
+Link to work: Tweet https://twitter.com/enthusielly/status/830999619517706240
+
+
 ****************************
 ### Day 28: Feb 11, 2017 
 
