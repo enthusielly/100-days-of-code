@@ -2,6 +2,18 @@
 
 ****************************
 
+Day 30: Feb 15, 2017
+
+Today's Progress: oops. Missed 2 days but things have been extraordinarily busy. Back at it. 
+
+Need to do: figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. style some text colours responsive design
+
+Thoughts:
+
+Link to work: Tweet https://twitter.com/enthusielly/status/832089416722165761
+
+****************************
+
 Day 29: Feb 12, 2017
 
 Today's Progress: tweaks to fluidity of my work, trouble with teh About section now. 
