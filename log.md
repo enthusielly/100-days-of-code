@@ -2,6 +2,19 @@
 
 ****************************
 
+Day 31: Feb 16, 2017
+
+Today's Progress: sticky footer, going for mobile first, except that it's actually 2nd. Oops.  
+
+Need to do: Center footer content; figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. style some text colours responsive design
+
+Thoughts: I'm still clumsy but so much better at this now.
+
+Link to work: Tweet hhttps://twitter.com/enthusielly/status/832457107777531906
+
+ 
+****************************
+
 Day 30: Feb 15, 2017
 
 Today's Progress: oops. Missed 2 days but things have been extraordinarily busy. Back at it. 
