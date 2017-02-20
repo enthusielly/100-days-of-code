@@ -5,6 +5,8 @@ Day 33: Feb 19, 2017
 
 Today's Progress: nearly have my overlay text working after googling it. Almost. Not quite. Has messed up header and footer but I think I just need to adjust the z-index on both so they are on top and everything slides underneath. From a UX standpoint, the text in overlay (although currently FPO) should be underneath--the overlay could perhaps just be info about that particular image while text underneath be about the type of work I do. So it's service, image sample + optional hover detail info specific to sample, more info about service underneath.
 
+NOTE: Ease out if it's a thing is very abrupt compared to ease in. also text is doing a weird thing on the way out of hover. there must be a better way to do this.
+
 Thoughts: coming along!
 
 Link to work: Tweet https://twitter.com/enthusielly/status/833534488357588992 & https://twitter.com/enthusielly/status/833532216672210944
