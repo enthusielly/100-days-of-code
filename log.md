@@ -1,4 +1,23 @@
 # 100 Days Of Code - Robertson - Log
+****************************
+
+Day 33: Feb 19, 2017
+
+Today's Progress: nearly have my overlay text working after googling it. Almost. Not quite. Has messed up header and footer but I think I just need to adjust the z-index on both so they are on top and everything slides underneath. From a UX standpoint, the text in overlay (although currently FPO) should be underneath--the overlay could perhaps just be info about that particular image while text underneath be about the type of work I do. So it's service, image sample + optional hover detail info specific to sample, more info about service underneath.
+
+Thoughts: coming along!
+
+Link to work: Tweet https://twitter.com/enthusielly/status/833534488357588992 & https://twitter.com/enthusielly/status/833532216672210944
+
+****************************
+
+Day 32: Feb 18, 2017
+
+Today's Progress: Attended HTML500 and built a very simple one page profile site.
+
+Thoughts: I realized after seeing the sample file that I was beyond this and felt bad taking up the spot when others with zero experience could be doing it. I think next time I'd like to volunteer for it instead.
+
+Link to work: Tweeted all day long in hopes of winning a free class. Or a neon sign. My best tweet was probably this one: https://twitter.com/enthusielly/status/832986838621179907
 
 ****************************
 
