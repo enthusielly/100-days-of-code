@@ -1,6 +1,21 @@
 # 100 Days Of Code - Robertson - Log
 ****************************
 
+Day 35: Feb 23, 2017
+
+Today's Progress: made a few colour adjustments for accessibility, but size of some fonts may still be an issue. changed fonts slightly but not loving it yet. Adjusted footer for mobile.
+
+Need to do: 
+bring back ease in/out animation
+adjust for reponsive design for tablets
+adjust fonts to something I like
+blurbs under portfolio images not centered on responsive site
+space under portfolio blurbs too big on responsive site
+
+Link to work: Tweet https://twitter.com/enthusielly/status/834977521825431553
+
+****************************
+
 Day 34: Feb 21, 2017
 
 Today's Progress: somehow managed to center vertically my overlay text but lost the lovely overlay animation (gentler ease in) that was there before. 
