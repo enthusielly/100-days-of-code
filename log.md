@@ -6,11 +6,11 @@ Day 35: Feb 23, 2017
 Today's Progress: made a few colour adjustments for accessibility, but size of some fonts may still be an issue. changed fonts slightly but not loving it yet. Adjusted footer for mobile.
 
 Need to do: 
-bring back ease in/out animation
-adjust for reponsive design for tablets
-adjust fonts to something I like
-blurbs under portfolio images not centered on responsive site
-space under portfolio blurbs too big on responsive site
+- bring back ease in/out animation
+- adjust for reponsive design for tablets
+- adjust fonts to something I like
+- blurbs under portfolio images not centered on responsive site
+- space under portfolio blurbs too big on responsive site
 
 Link to work: Tweet https://twitter.com/enthusielly/status/834977521825431553
 
@@ -21,9 +21,9 @@ Day 34: Feb 21, 2017
 Today's Progress: somehow managed to center vertically my overlay text but lost the lovely overlay animation (gentler ease in) that was there before. 
 
 Need to do: 
-bring back ease in/out animation
-adjust for reponsive design. 
-Style the fonts. saved for later. dont' want to get too hung up on design.
+- figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
+- style some text colours 
+- responsive designbring back ease in/out animation
 
 Link to work: Tweet https://twitter.com/enthusielly/status/834238022212317185
 
@@ -57,7 +57,13 @@ Day 31: Feb 16, 2017
 
 Today's Progress: sticky footer, going for mobile first, except that it's actually 2nd. Oops.  
 
-Need to do: Center footer content; figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. style some text colours responsive design
+Need to do: 
+- figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
+- style some text colours 
+- responsive designCenter footer content
+- figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
+- style some text colours 
+- responsive design
 
 Thoughts: I'm still clumsy but so much better at this now.
 
@@ -70,7 +76,10 @@ Day 30: Feb 15, 2017
 
 Today's Progress: oops. Missed 2 days but things have been extraordinarily busy. Back at it. 
 
-Need to do: figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. style some text colours responsive design
+Need to do: 
+- figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
+- style some text colours 
+- responsive design
 
 Thoughts:
 
@@ -82,7 +91,10 @@ Day 29: Feb 12, 2017
 
 Today's Progress: tweaks to fluidity of my work, trouble with teh About section now. 
 
-Need to do: figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. style some text colours responsive design
+Need to do: 
+- figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
+- style some text colours 
+- responsive design
 
 Thoughts:
 
@@ -96,10 +108,10 @@ Link to work: Tweet https://twitter.com/enthusielly/status/830999619517706240
 tweaks to page. trying to put in a slider from a workshop I took but it is ugly and clunky and i cant change the xiae. Better to simplify and move on. or is it? 
 
 **Need to do:**
-figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
-style some text
-colours
-responsive design
+- figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
+- style some text
+- colours
+- responsive design
 
 **Thoughts:** 
 
@@ -111,10 +123,10 @@ responsive design
 working top down, continuing to the bottom of my portfolio page.
 
 **Need to do:**
-figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
-style some text
-colours
-responsive design
+- figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
+- style some text
+- colours
+- responsive design
 
 **Thoughts:** 
 i don't love the straight across full width design. It's so not my style. 
@@ -128,7 +140,7 @@ i don't love the straight across full width design. It's so not my style.
 working top down, i managed to fix the portfolio section. yay!
 
 **Need to do:**
-figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
+- figure out overlay text. I won't be putting in too much detail into my portfolio page--yet. 
 
 **Thoughts:** 
 it's so great when I can figure things out!
@@ -158,7 +170,7 @@ also. tired.
 tried to do a little python (not well, need to learn Terminal.Looked at my portfolio stie, but was too tired to realy do much with it.
 
 **Need to do:**
-Everything!
+- Everything!
 
 **Thoughts:** 
 too tired to do this. 
@@ -173,7 +185,7 @@ too tired to do this.
 decided to build my Portfolio from the ground up again. Borrowed code from all sorts of places. Should I flexbox it or Bootstrap it? I keep wanting to just Flexbox it as it seems I can't mix, but maybe I just need a bit more research
 
 **Need to do:**
-Everything!
+- Everything!
 
 **Thoughts:** 
 
@@ -186,7 +198,7 @@ Everything!
 resumed work on my FCC portfolio site. Couldn't decide between the format in the example or my own. I decided I might play around with both but wanted the basic site to function properly but I broke it somehow. Also wanted it to be able to show more details of my work somehow but none of that is working either. 
 
 **Need to do:**
-Everything. I broke it. Starting all over. again. it's annoying but good for me.
+- Everything. I broke it. Starting all over. again. it's annoying but good for me.
 
 **Thoughts:** Above!
 
