@@ -1,4 +1,22 @@
 # 100 Days Of Code - Robertson - Log
+
+****************************
+
+Day 36: Feb 26, 2017
+
+Today's Progress: changed fonts and some FPO text for a more realistic site and somewhere along the way I broke it. Spent an hour troubleshooting but too tired. 
+
+Need to do: 
+- fix what i broke.
+- bring back ease in/out animation
+- adjust for reponsive design for tablets
+- adjust fonts to something I like
+- blurbs under portfolio images not centered on responsive site
+- space under portfolio blurbs too big on responsive site
+
+Link to work: Tweet https://twitter.com/enthusielly/status/835345544436400129
+
+
 ****************************
 
 Day 35: Feb 23, 2017
