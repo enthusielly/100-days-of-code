@@ -1,7 +1,7 @@
 # 100 Days Of Code - Robertson - Log
 ****************************
 
-Day 36: Feb 26, 2017
+Day 37: Feb 26, 2017
 
 Today's Progress: fixed my mistake, whatever it was on main portfolio (I think it was to drill down to image and make that 100% of the defined box it was in which was the correct width after I adjusted that to 30% of width of area (1000px) I want to use. Walking away from it DID help me solve it.)
 
@@ -11,7 +11,7 @@ Need to do:
 - blurbs not width I want yet (and this may solve the footer/menu bar at the bottom when I figure this out)
 - space under portfolio blurbs too big on responsive site
 
-Tweet: https://twitter.com/enthusielly/status/835345544436400129
+Tweet: https://twitter.com/enthusielly/status/836079606046294016
 Link to work: https://github.com/enthusielly/FCC-Portfolio-standard
 
 ****************************
