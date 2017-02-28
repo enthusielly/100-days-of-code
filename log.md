@@ -1,6 +1,22 @@
 # 100 Days Of Code - Robertson - Log
 ****************************
 
+Day 38: Feb 26, 2017
+
+Today's Progress: opened up my site to look at responsive design and decided I should just bootstrap it like evyerone else does. So i've started from scratch but in bootstrap. 
+
+Need to do: 
+- bring back ease in/out animation
+- adjust for reponsive design for tablets
+- blurbs not width I want yet (and this may solve the footer/menu bar at the bottom when I figure this out)
+- space under portfolio blurbs too big on responsive site
+
+Tweet: https://twitter.com/enthusielly/status/836429379286728705
+Link to work: https://github.com/enthusielly/FCC-Portfolio-standard
+
+
+****************************
+
 Day 37: Feb 26, 2017
 
 Today's Progress: fixed my mistake, whatever it was on main portfolio (I think it was to drill down to image and make that 100% of the defined box it was in which was the correct width after I adjusted that to 30% of width of area (1000px) I want to use. Walking away from it DID help me solve it.)
