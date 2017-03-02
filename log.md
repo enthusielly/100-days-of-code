@@ -1,6 +1,18 @@
 # 100 Days Of Code - Robertson - Log
 ****************************
 
+Day 39: Mar 1 2017
+
+Today's Progress: Playing with Bootstrap today. Kind of fun.  
+
+Need to do: 
+- fix it up to my liking.
+
+Tweet: https://twitter.com/enthusielly/status/837140710214287360
+Link to work: https://github.com/enthusielly/FCC-Portfolio-standard
+
+****************************
+
 Day 38: Feb 26, 2017
 
 Today's Progress: opened up my site to look at responsive design and decided I should just bootstrap it like evyerone else does. So i've started from scratch but in bootstrap. 
