@@ -1,6 +1,18 @@
 # 100 Days Of Code - Robertson - Log
 ****************************
 
+Day 40: Mar 3 2017
+
+Today's Progress: massaging site to my liking.
+
+Need to do: 
+- keep at it.blurbs too wide, center photo in responsive mode. get drop down to work, adjust padding in each section.
+
+Tweet:https://twitter.com/enthusielly/status/837857684259024896
+Link to work: https://github.com/enthusielly/FCC-Portfolio-standard
+
+****************************
+
 Day 39: Mar 1 2017
 
 Today's Progress: Playing with Bootstrap today. Kind of fun.  
